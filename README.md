@@ -75,7 +75,7 @@ Also: data analysis, machine learning fundamentals, Excel and Word.
 
 ### Museum of Natural History: Ticketing System
 
-<img src="assets/status-repo-in-preparation.svg" alt="Repository in preparation" height="26">
+<img src="https://github.com/Erickxdps/sistema-registro-catastro" alt="Repository in preparation" height="26">
 
 | | |
 |:--|:--|
