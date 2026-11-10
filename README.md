@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" alt="Erick — Back-End Developer, La Paz, Bolivia. Building practical software solutions through backend development, problem-solving and continuous learning." width="100%">
 </p>
 
-I'm **Erick**, a Back-End developer from La Paz, Bolivia. I build web applications and management systems that solve concrete administrative problems, mainly with **Python, Flask and SQL**, and I'm in my eighth semester of Computer Science at the Universidad Mayor de San Andrés (UMSA).
+I'm **Erick**, a Back-End developer from La Paz, Bolivia. I build web applications and management systems that solve practical problems, mainly with **Python, Flask and SQL**. I'm currently studying Computer Science with a specialization in Software Development and Technological Innovation at UMSA.
 
 <img src="assets/divider.svg" alt="" width="100%">
 
@@ -12,12 +12,12 @@ I'm **Erick**, a Back-End developer from La Paz, Bolivia. I build web applicatio
 |:--|:--|
 | **Focus** | Back-End development, web applications and management systems |
 | **Based in** | La Paz, Bolivia |
-| **Studying** | Computer Science, UMSA (8th semester) |
+| **Studying** | Computer Science, specializing in Software Development and Technological Innovation, UMSA (8th semester) |
 | **Main stack** | Python · Flask · SQL |
 | **Also work with** | PostgreSQL · Java · Spring Boot · PHP · Laravel |
 | **Approach** | Practical, efficient and maintainable solutions |
 
-I work independently, building tools that replace manual work, improve administrative processes and run reliably in the real world. So far that has meant community management systems and administrative control tools, each starting from a concrete need and ending in something people actually use.
+I work independently, building tools that replace manual work and improve administrative processes. My projects include community management and administrative systems.
 
 I'm also comfortable with Excel, Word and other productivity tools, and I'm using my studies and projects to keep growing in software engineering.
 
@@ -99,18 +99,6 @@ Also: data analysis, machine learning fundamentals, Excel and Word.
 <!-- TODO: link individual repositories here once they are published. -->
 
 <img src="assets/divider.svg" alt="" width="100%">
-
-<!--
-## GitHub Statistics
-Enable once the account has public repositories and activity; with an empty
-account these widgets show "No languages data" and look unfinished.
-Third-party service (github-readme-stats), so check it renders after enabling.
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Erickxdps&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=A371F7&icon_color=A371F7" alt="GitHub stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erickxdps&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=A371F7" alt="Top languages" height="170">
-</p>
--->
 
 ## Currently Learning & Interests
 
