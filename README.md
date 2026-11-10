@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Erick — Back-End Developer. Building practical software solutions through backend development, problem-solving and continuous learning." width="100%">
+  <img src="assets/banner.svg" alt="Erick — Back-End Developer, La Paz, Bolivia. Building practical software solutions through backend development, problem-solving and continuous learning." width="100%">
 </p>
 
-I'm **Erick**, an independent Back-End developer from La Paz, Bolivia. I build web applications and management systems with **Python, Flask and SQL**, focused on solving real administrative needs, and I'm currently in my eighth semester of Computer Science at the Universidad Mayor de San Andrés (UMSA).
+I'm **Erick**, a Back-End developer from La Paz, Bolivia. I build web applications and management systems that solve concrete administrative problems, mainly with **Python, Flask and SQL**, and I'm in my eighth semester of Computer Science at the Universidad Mayor de San Andrés (UMSA).
 
 <img src="assets/divider.svg" alt="" width="100%">
 
@@ -13,24 +13,47 @@ I'm **Erick**, an independent Back-End developer from La Paz, Bolivia. I build w
 | **Focus** | Back-End development, web applications and management systems |
 | **Based in** | La Paz, Bolivia |
 | **Studying** | Computer Science, UMSA (8th semester) |
-| **Core stack** | Python · Flask · SQL |
+| **Main stack** | Python · Flask · SQL |
+| **Also work with** | PostgreSQL · Java · Spring Boot · PHP · Laravel |
 | **Approach** | Practical, efficient and maintainable solutions |
 
-My work starts from a concrete need: information that is scattered, processes that are still done by hand, records that are hard to control. I design the data model, build the application around it and deliver something people can actually use. I'm building my career through real projects and constant learning.
+I work independently, building tools that replace manual work, improve administrative processes and run reliably in the real world. So far that has meant community management systems and administrative control tools, each starting from a concrete need and ending in something people actually use.
 
-Alongside Back-End work, I'm comfortable with Excel, Word and other productivity tools, which helps when a system has to fit the way an organization already works.
+I'm also comfortable with Excel, Word and other productivity tools, and I'm using my studies and projects to keep growing in software engineering.
 
 <img src="assets/divider.svg" alt="" width="100%">
 
 ## Tech Stack
 
-| | |
-|:--|:--|
-| **Back-End** | <img src="assets/badges/python.svg" alt="Python" height="30"> <img src="assets/badges/flask.svg" alt="Flask" height="30"> |
-| **Data** | <img src="assets/badges/sql.svg" alt="SQL" height="30"> <img src="assets/badges/relational-databases.svg" alt="Relational databases" height="30"> |
-| **Analysis & ML** | <img src="assets/badges/data-analysis.svg" alt="Data analysis" height="30"> <img src="assets/badges/machine-learning.svg" alt="Machine learning" height="30"> |
-| **Tools** | <img src="assets/badges/git.svg" alt="Git" height="30"> <img src="assets/badges/github.svg" alt="GitHub" height="30"> |
-| **Productivity** | <img src="assets/badges/excel.svg" alt="Excel" height="30"> <img src="assets/badges/word.svg" alt="Word" height="30"> |
+**Backend & Programming**
+
+<p>
+  <img src="assets/tech/python.svg" alt="Python" width="104" height="104">
+  <img src="assets/tech/flask.svg" alt="Flask" width="104" height="104">
+  <img src="assets/tech/java.svg" alt="Java" width="104" height="104">
+  <img src="assets/tech/spring-boot.svg" alt="Spring Boot" width="104" height="104">
+  <img src="assets/tech/php.svg" alt="PHP" width="104" height="104">
+  <img src="assets/tech/laravel.svg" alt="Laravel" width="104" height="104">
+</p>
+
+**Databases**
+
+<p>
+  <img src="assets/tech/sql.svg" alt="SQL" width="104" height="104">
+  <img src="assets/tech/postgresql.svg" alt="PostgreSQL" width="104" height="104">
+  <img src="assets/tech/sqlite.svg" alt="SQLite" width="104" height="104">
+</p>
+
+**Tools & Development**
+
+<p>
+  <img src="assets/tech/git.svg" alt="Git" width="104" height="104">
+  <img src="assets/tech/github.svg" alt="GitHub" width="104" height="104">
+  <img src="assets/tech/vscode.svg" alt="Visual Studio Code" width="104" height="104">
+  <img src="assets/tech/windows.svg" alt="Windows" width="104" height="104">
+</p>
+
+Also: data analysis, machine learning fundamentals, Excel and Word.
 
 <img src="assets/divider.svg" alt="" width="100%">
 
@@ -38,58 +61,70 @@ Alongside Back-End work, I'm comfortable with Excel, Word and other productivity
 
 ### Community Management System
 
+<img src="assets/status-repo-in-preparation.svg" alt="Repository in preparation" height="26">
+
 | | |
 |:--|:--|
-| **Problem** | Administrative information for a community of around 900 people had to be managed in an organized, reliable way. |
-| **Solution** | A Flask web application backed by a database to store and manage that information. |
+| **What it is** | A Flask web application implemented for a community of around 900 people. |
+| **Problem** | Administrative information had to be managed in an organized and reliable way. |
+| **Solution** | A database-backed system to store, query and manage that information. |
 | **Stack** | Python · Flask · SQL |
-| **Status** | Implemented and in use. Repository coming soon. |
 
-<!-- TODO: when the repository is public, replace the "Status" row with:
-| **Repository** | [Erickxdps/REPO-NAME](https://github.com/Erickxdps/REPO-NAME) | -->
+<!-- TODO: when the repo is public, replace the status image above with:
+**Repository:** [Erickxdps/REPO-NAME](https://github.com/Erickxdps/REPO-NAME) -->
 
-### Museum Ticketing System
+### Museum of Natural History: Ticketing System
+
+<img src="assets/status-repo-in-preparation.svg" alt="Repository in preparation" height="26">
 
 | | |
 |:--|:--|
-| **Problem** | Visitor entries were registered and controlled through manual procedures. |
-| **Solution** | A web application to register and manage entries by visitor category, quantity and record, improving administrative control. |
-| **Stack** | Python · Flask |
-| **Status** | Repository coming soon. |
+| **What it is** | A web application to register and control museum entries. |
+| **Problem** | Entries were handled through manual procedures that were hard to control. |
+| **Solution** | Registration by visitor category and quantity, with records that improve administrative control. |
+| **Stack** | Python · Flask · SQLite |
 
-<!-- TODO: when the repository is public, replace the "Status" row with:
-| **Repository** | [Erickxdps/REPO-NAME](https://github.com/Erickxdps/REPO-NAME) | -->
+<!-- TODO: when the repo is public, replace the status image above with:
+**Repository:** [Erickxdps/REPO-NAME](https://github.com/Erickxdps/REPO-NAME) -->
 
-### More work
+### Python, SQL & Machine Learning Projects
 
-- Academic applications built with Python and SQL.
-- Data analysis and machine learning projects.
-- Database design and management systems.
+<img src="assets/status-repo-in-preparation.svg" alt="Repositories in preparation" height="26">
+
+| | |
+|:--|:--|
+| **What it is** | Academic applications, database systems and data analysis / machine learning work. |
+| **Stack** | Python · SQL |
+
+<!-- TODO: link individual repositories here once they are published. -->
 
 <img src="assets/divider.svg" alt="" width="100%">
 
 <!--
 ## GitHub Statistics
-Enable this section once the account has enough public activity to be meaningful.
-Example (external service, may be rate-limited):
+Enable once the account has public repositories and activity; with an empty
+account these widgets show "No languages data" and look unfinished.
+Third-party service (github-readme-stats), so check it renders after enabling.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Erickxdps&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=A371F7&icon_color=A371F7" alt="GitHub stats" height="160">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erickxdps&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=A371F7" alt="Top languages" height="160">
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Erickxdps&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=A371F7&icon_color=A371F7" alt="GitHub stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erickxdps&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=A371F7" alt="Top languages" height="170">
+</p>
 -->
 
 ## Currently Learning & Interests
 
-- **Back-End development:** writing cleaner, more maintainable Flask applications.
-- **Databases:** data modeling and building systems that stay consistent as they grow.
+- **Back-End development:** writing cleaner, more maintainable applications.
+- **Databases:** data modeling and systems that stay consistent as they grow.
 - **Automation:** replacing repetitive manual processes with reliable software.
 - **Machine learning:** applying data analysis and ML to practical problems.
+- **Software engineering:** architecture, testing and good development practices.
 
 <img src="assets/divider.svg" alt="" width="100%">
 
 ## Connect With Me
 
 - **GitHub:** [github.com/Erickxdps](https://github.com/Erickxdps)
-- **Email:** [juliopicavia0000@gmail.com](mailto:juliopicavia0000@gmail.com)
 <!-- TODO: add LinkedIn when available:
 - **LinkedIn:** [linkedin.com/in/YOUR-USER](https://www.linkedin.com/in/YOUR-USER) -->
 
