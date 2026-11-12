@@ -61,42 +61,41 @@ Also: data analysis, machine learning fundamentals, Excel and Word.
 
 ### Community Management System
 
-<img src="assets/status-repo-in-preparation.svg" alt="Repository in preparation" height="26">
-
 | | |
 |:--|:--|
-| **What it is** | A Flask web application implemented for a community of around 900 people. |
+| **What it is** | A Flask web application to manage the registry of a neighborhood association of around 900 people: owners, land plots, meetings, attendance, fees and fines. |
 | **Problem** | Administrative information had to be managed in an organized and reliable way. |
-| **Solution** | A database-backed system to store, query and manage that information. |
-| **Stack** | Python · Flask · SQL |
-
-<!-- TODO: when the repo is public, replace the status image above with:
-**Repository:** [Erickxdps/REPO-NAME](https://github.com/Erickxdps/REPO-NAME) -->
+| **Solution** | A database-backed system with role-based users, Excel-exportable reports and printable account statements. |
+| **Stack** | Python · Flask · SQLAlchemy · SQL |
+| **Repository** | [Erickxdps/sistema-registro-catastro](https://github.com/Erickxdps/sistema-registro-catastro) |
 
 ### Museum of Natural History: Ticketing System
 
-<img src="https://github.com/Erickxdps/sistema-registro-catastro" alt="Repository in preparation" height="26">
-
 | | |
 |:--|:--|
-| **What it is** | A web application to register and control museum entries. |
+| **What it is** | A web application to sell tickets, register entries and close the daily cash register of a museum. |
 | **Problem** | Entries were handled through manual procedures that were hard to control. |
-| **Solution** | Registration by visitor category and quantity, with records that improve administrative control. |
+| **Solution** | QR tickets and numbered physical booklets by visitor category, QR validation from a phone over the local network, and daily reports with better administrative control. |
 | **Stack** | Python · Flask · SQLite |
+| **Repository** | [Erickxdps/mhn-ticketing](https://github.com/Erickxdps/mhn-ticketing) |
 
-<!-- TODO: when the repo is public, replace the status image above with:
-**Repository:** [Erickxdps/REPO-NAME](https://github.com/Erickxdps/REPO-NAME) -->
-
-### Python, SQL & Machine Learning Projects
-
-<img src="assets/status-repo-in-preparation.svg" alt="Repositories in preparation" height="26">
+### Café Manager
 
 | | |
 |:--|:--|
-| **What it is** | Academic applications, database systems and data analysis / machine learning work. |
-| **Stack** | Python · SQL |
+| **What it is** | An offline-first management app for a coffee shop: orders, payments, inventory, cash register, daily closing, recipes and reports. |
+| **Solution** | A Flask + SQLite back-end that runs locally, built in stages from a master specification. |
+| **Stack** | Python · Flask · SQLite |
+| **Repository** | [Erickxdps/cafe-manager](https://github.com/Erickxdps/cafe-manager) |
 
-<!-- TODO: link individual repositories here once they are published. -->
+### Academic & API Projects
+
+| Repository | Description |
+|:--|:--|
+| [hospital-api](https://github.com/Erickxdps/hospital-api) | REST API in Python for a hospital domain. |
+| [store-api](https://github.com/Erickxdps/store-api) | REST API in Python for a store domain. |
+| [INF-133](https://github.com/Erickxdps/INF-133) | Web programming coursework in Python. |
+| [Practica1](https://github.com/Erickxdps/Practica1) | Java coursework (TAW). |
 
 <img src="assets/divider.svg" alt="" width="100%">
 
